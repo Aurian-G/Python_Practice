@@ -1,2 +1,3 @@
-# Python_Practice
-Repo containing basic Python practice
+Python_Basics Repo  
+Pratice problems with indexing, slicing, for loops, functions and conditionals
+
